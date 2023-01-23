@@ -2,7 +2,7 @@
 
 ## Description
 
-With this projects, I promoted on Data Types and Algorithms in [patika.dev Data Types and Algorithms](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar)
+With this project, I promoted on Data Types and Algorithms in [patika.dev Data Types and Algorithms](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar)
 
 ___
 
